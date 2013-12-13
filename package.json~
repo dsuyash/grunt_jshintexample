@@ -1,8 +1,0 @@
-{
-  "name": "grunt_build_validate_js_files",
-  "description": "grunt_build_validate_js_files",
-  "author": "Suyash",
-  "dependencies": {
-      "grunt-contrib-jshint": "0.6.x"
-   }
-}
